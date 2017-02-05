@@ -1,0 +1,49 @@
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.2404108326882124
+  lightness: 0.5358701194636524
+  saturation: 0.5886616362258792
+  rhythmicContrast: 0.5711934885475785
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: artificial psychosis
+layout_spectrum: 0.36479607387445867
+typography_spectrum: 0.3046120011713356
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c2e3752-dc38-48fe-9182-0d640aa76951.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c2e3752-dc38-48fe-9182-0d640aa76951.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Dryclean tv
+description: ''
+github: true
